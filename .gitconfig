@@ -1,0 +1,13 @@
+[user]
+	name = Yoshimasa IWASE
+	email = iwase.yoshimasa@gmail.com
+[color]
+	ui = true
+[alias]
+	co = checkout
+	st = status
+	br = branch
+	ci = commit
+[core]
+	excludesfile = /Users/iii3/.gitignore_global
+	autocrlf = input
