@@ -38,6 +38,10 @@ nnoremap <C-l> <C-w>l
 
 "---------------------------------------------------------------------------
 "Vundle系
+"Memo : 
+" install from github -> Bundle 'username/pluginname'
+" install from vim repo  -> Bundle 'pluginname'
+" install from git except github -> Bundle 'git://domain/pluginname.git'
 "---------------------------------------------------------------------------
 "For Vundle. ファイル形式の検出を無効に
 filetype off
@@ -58,6 +62,7 @@ Bundle 'scrooloose/nerdtree'
 Bundle 'Shougo/neocomplcache.vim'
 Bundle 'mattn/emmet-vim'
 Bundle 'The-NERD-Commenter'
+Bundle 'YankRing.vim'
 "Bundle 'ctrlp'
 
 "ColorSchema
