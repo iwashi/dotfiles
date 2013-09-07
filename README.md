@@ -1,5 +1,6 @@
 # My Dotfiles.
-======================
+Some config files are stored.
+When setting up new machine, this will be helpful.
 
 ## How to use
 ------
