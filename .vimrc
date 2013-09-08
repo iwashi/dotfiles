@@ -5,6 +5,7 @@ set nocompatible "viと非互換に
 set number "行番号表示
 set showmode "モード表示
 set visualbell "ビープ音防止
+set noswapfile "スワップファイルは要らない
 "ファイルを開いた際に、前回終了時の行で起動
 autocmd BufReadPost * if line("'\"") > 0 && line("'\"") <= line("$") | exe "normal g`\"" | endif
 
