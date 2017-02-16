@@ -99,8 +99,24 @@ dotfilesでカバーするのもあるけど、ひとまず覚えているとこ
 - npm用にPATHを追加しておく。(zshrcとか)
  - export PATH="/usr/local/share/npm/bin:$PATH"
 
+## メモ
 
-## 4. 将来brewfileに追加するもの
-
+- Office
+- nodebrew
+- clipmenu
+- VMWare Fusion
+- Karabinar
+- Alfred
+- Dropbox
 - Xmind
+- VNC
+- VLC
+- Slack
+- Camtwist
 
+- IDE
+  - phpstorm
+  - rubymine
+  - intelliJ
+  - WebStorm
+  - VirtualBox
