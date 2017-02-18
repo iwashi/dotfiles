@@ -22,7 +22,7 @@ xcode-select --install
 AntiVirusソフトのインストール
 
 ### System defaultのrubyでhomebrewをインストール
-ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
    
 ### Brewfileから一気に全部インストール（自動）
 以下、Brewfileのためbrewは省略してサブコマンドから記載。
@@ -113,6 +113,7 @@ dotfilesでカバーするのもあるけど、ひとまず覚えているとこ
 - VLC
 - Slack
 - Camtwist
+- docker for mac
 
 - IDE
   - phpstorm
